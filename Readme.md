@@ -3,10 +3,12 @@
 An interactive BI dashboard built with **Streamlit**, **Plotly**, and **Pandas** for e-commerce sales and profit analysis.
 
 ## Live Demo
-- **Live URL:** Pending deployment link
+- **Live URL:** https://interactive-dashboard-f5mgjbgfyeqkzwksebot7t.streamlit.app/
 
 ## Screenshots
-- Pending dashboard screenshots
+- !(screen3.png)
+- !(Screen2.png)
+- !(Screen.png)
 
 ## 3 Actionable Business Recommendations
 1. **Optimize High Discounts:** High discount tiers (`15%–20%`) reduce average profit per order compared to `0%–5%`, so tie deep discounts to higher order quantities or higher-margin items.
